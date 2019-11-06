@@ -1,0 +1,69 @@
+[
+  {
+    "question": "Wat je favoriete versioning tool?",
+    "answers": [
+      {
+        "label": "SVN",
+        "score": 0
+      },
+      {
+        "label": "GIT",
+        "score": 10
+      },
+      {
+        "label": "CVS",
+        "score": -5
+      },
+      {
+        "label": "Mercurial",
+        "score": 5
+      },
+      {
+        "label": "HUHH?",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "question": "Wat is je favoriete cat?",
+    "answers": [
+      {
+        "label": "Ceiling cat",
+        "score": 10
+      },
+      {
+        "label": "Invisible bike cat",
+        "score": 5
+      },
+      {
+        "label": "Octocat",
+        "score": 12
+      },
+      {
+        "label": "MercuriMonorail catal",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "question": "Wat is je favoriete edelsteen?",
+    "answers": [
+      {
+        "label": "Diamant",
+        "score": 5
+      },
+      {
+        "label": "Robijn",
+        "score": 10
+      },
+      {
+        "label": "Kryptonite",
+        "score": 10
+      },
+      {
+        "label": "Smaragd",
+        "score": -5
+      }
+    ]
+  }
+]
